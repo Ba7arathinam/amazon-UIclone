@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai+Looped:wght@300&family=Montserrat:ital,wght@1,300&family=Ubuntu:wght@300&display=swap");
+
+* {
+  margin: 0;
+}
+
+:root {
+  --font-family: "IBM Plex Sans Thai Looped", sans-serif;
+}
